@@ -1,0 +1,25 @@
+.login{
+    background-color: rgba(192, 210, 224, 0.61);
+    font-size:larger;
+    font-style: normal;
+    font-family:sans-serif;
+    text-align: center;
+    border-radius: 10px;
+
+}
+body{
+    background-image:url(Smashmountains.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgb(108, 110, 189);
+    background-size: 100% 100%;
+    background-size: cover;
+}
+p{
+    background-color: rgba(99, 126, 177, 0.397);
+    font-size: xx-large;
+    text-align: center;
+    padding: 100px;
+}
+
